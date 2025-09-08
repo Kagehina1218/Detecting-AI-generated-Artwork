@@ -14,8 +14,7 @@ This repository contains sample code and a portion of the dataset used in our pa
 This project investigates the performance of various traditional machine learning models and compares them with deep learning models for the task of distinguishing **AI-generated art** from **human-created artwork**.
 
 The dataset consists of:
-- **Sample images** (AI-generated)
-- **Pre-extracted features** 
+- **Pre-extracted features** (Used for training LR, SVM, and MLP)
 
 The pipeline includes:
 - Data preprocessing
@@ -36,7 +35,6 @@ project-root/
 │   └── Training_LR_SVM_MLP.ipynb
 │
 ├── dataset/                    # Dataset folder (sample only)
-│   ├── images/                 # Sample images
 │   └── features/               # Extracted features (.csv or .npy)
 │
 ├── README.md                   # Project documentation (this file)
