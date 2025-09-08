@@ -3,7 +3,7 @@
 This repository contains sample code and a portion of the dataset used in our paper:
 
 > **"Detecting AI-generated Artwork"**  
-> *Meien Li*, *Mark Stamp*  
+> *Meien Li/Grace Li*, *Mark Stamp*  
 > ✅ Accepted at **Computer Science Conference for CSU Undergraduates, 2025**  
 > 📄 [arXiv preprint](https://arxiv.org/abs/2504.07078)
 
