@@ -37,4 +37,5 @@ project-root/
 ├── dataset/                    # Dataset folder (sample only)
 │   └── features/               # Extracted features (.csv or .npy)
 │
-├── README.md                   # Project documentation (this file)
+└── README.md                   # Project documentation (this file)
+```
