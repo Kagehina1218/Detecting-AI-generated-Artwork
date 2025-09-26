@@ -35,7 +35,7 @@ project-root/
 │   └── Training_LR_SVM_MLP.ipynb
 │
 ├── dataset/                    # Dataset folder (sample only)
-│   └── features/               # Extracted features (.csv or .npy)
+│   └── features/               # Extracted features (.csv)
 │
 └── README.md                   # Project documentation (this file)
 ```
